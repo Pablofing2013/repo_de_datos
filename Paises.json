@@ -2,81 +2,81 @@
     {
         "Pais": "Argentina",
         "Continente": "America del Sur",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Arg"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Arg"
     },
     {
         "Pais": "Brasil",
         "Continente": "America del Sur",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Bra"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Bra"
     },
     {
         "Pais": "Canada",
         "Continente": "America del Norte",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Can"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Can"
     },
     {
         "Pais": "China",
         "Continente": "Asia",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Chn"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Chn"
     },
     {
         "Pais": "Egipto",
         "Continente": "Africa",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Egy"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Egy"
     },
     {
         "Pais": "Francia",
         "Continente": "Europa",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Fra"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Fra"
     },
     {
         "Pais": "India",
         "Continente": "Asia",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Ind"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Ind"
     },
     {
         "Pais": "Italia",
         "Continente": "Europa",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Ita"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Ita"
     },
     {
         "Pais": "Japon",
         "Continente": "Asia",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Jpn"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Jpn"
     },
     {
         "Pais": "Mexico",
         "Continente": "America del Norte",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Mex"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Mex"
     },
     {
         "Pais": "Nigeria",
         "Continente": "Africa",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Nga"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Nga"
     },
     {
         "Pais": "Reino Unido",
         "Continente": "Europa",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Gbr"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Gbr"
     },
     {
         "Pais": "Rusia",
         "Continente": "Europa/Asia",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Rus"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Rus"
     },
     {
         "Pais": "Sudafrica",
         "Continente": "Africa",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Rsa"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Rsa"
     },
     {
         "Pais": "Estados Unidos",
         "Continente": "America del Norte",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Usa"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Usa"
     },
     {
         "Pais": "Uruguay",
         "Continente": "America del Sur",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-5/Uru"
+        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Uru"
     }
 ]
