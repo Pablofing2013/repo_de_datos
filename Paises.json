@@ -1,10 +1,5 @@
 [
     {
-        "Pais": "Argentina",
-        "Continente": "America del Sur",
-        "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Arg"
-    },
-    {
         "Pais": "Brasil",
         "Continente": "America del Sur",
         "Url": "https://api.fifa.com/api/v3/picture/flags-sq-1/Bra"
