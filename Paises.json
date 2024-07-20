@@ -58,5 +58,9 @@
     {
         "Pais": "Estados Unidos",
         "Continente": "America del Norte"
+    },
+	{
+        "Pais": "Uruguay",
+        "Continente": "America del Sur"
     }
 ]
